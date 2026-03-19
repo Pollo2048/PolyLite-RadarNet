@@ -1,0 +1,7 @@
+Category to Label Mapping:
+squat: 0
+standup: 1
+straddle: 2
+throw: 3
+walk: 4
+wave: 5

@@ -114,7 +114,7 @@ if __name__ == "__main__":
     #     video4.npy
 
     dataset = VideoDataset(
-        directory="path/to/video/data",
+        directory="dataset",
         clip_len=64,
         crop_size=112
     )
